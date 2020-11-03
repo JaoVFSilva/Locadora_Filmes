@@ -1,0 +1,6 @@
+D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.dll
+D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.pdb
+D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.csprojAssemblyReference.cache
+D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.csproj.CoreCompileInputs.cache
+D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.dll
+D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.pdb
