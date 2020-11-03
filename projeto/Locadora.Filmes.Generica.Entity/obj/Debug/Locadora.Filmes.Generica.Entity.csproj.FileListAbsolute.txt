@@ -10,3 +10,15 @@ D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locado
 D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CopyComplete
 D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
 D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.pdb
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll.config
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.pdb
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csprojAssemblyReference.cache
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.csproj.CopyComplete
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
+C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.pdb

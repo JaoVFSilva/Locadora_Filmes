@@ -17,5 +17,7 @@ namespace Locadora.Filmes.Dados.Entity.Context
         {
             modelBuilder.Configurations.Add(new AlbumTypeConfiguration());
         }
+
+        public System.Data.Entity.DbSet<Locadora.Filmes.Dominio.Filme> Filmes { get; set; }
     }
 }
