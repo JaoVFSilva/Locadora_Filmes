@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7CB257F5-F5A3-4980-9829-CF4C12D4F651}</ProjectGuid>
+    <ProjectGuid>{15BB2733-D58E-4A84-BE31-2FA0C1C6E234}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Locadora.Filmes.Repositorios.Comum</RootNamespace>

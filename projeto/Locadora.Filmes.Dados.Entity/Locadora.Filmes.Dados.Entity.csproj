@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AD379491-7776-4D51-988B-0A732E4B2931}</ProjectGuid>
+    <ProjectGuid>{456A6CD2-C716-4BA9-A102-A449805DD202}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Locadora.Filmes.Dados.Entity</RootNamespace>
@@ -52,9 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\FilmeDbContext.cs" />
-    <Compile Include="Migrations\202011030337584_MigrationFilme.cs" />
-    <Compile Include="Migrations\202011030337584_MigrationFilme.designer.cs">
-      <DependentUpon>202011030337584_MigrationFilme.cs</DependentUpon>
+    <Compile Include="Migrations\202011040021311_AdicaoFilmes.cs" />
+    <Compile Include="Migrations\202011040021311_AdicaoFilmes.designer.cs">
+      <DependentUpon>202011040021311_AdicaoFilmes.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -67,17 +67,17 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Locadora.Filmes.Dominio\Locadora.Filmes.Dominio.csproj">
-      <Project>{0f7b1520-d4c0-43ec-86d1-30771a569afc}</Project>
+      <Project>{0b48e535-c3ef-4eac-8515-e3eec45b5e3d}</Project>
       <Name>Locadora.Filmes.Dominio</Name>
     </ProjectReference>
     <ProjectReference Include="..\Locadora.Filmes.Generica.Entity\Locadora.Filmes.Generica.Entity.csproj">
-      <Project>{7c0b8b59-5d31-4872-980d-324cc4d9fa42}</Project>
+      <Project>{db9a37db-cb3a-4b89-9cc5-cd07c230e724}</Project>
       <Name>Locadora.Filmes.Generica.Entity</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202011030337584_MigrationFilme.resx">
-      <DependentUpon>202011030337584_MigrationFilme.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202011040021311_AdicaoFilmes.resx">
+      <DependentUpon>202011040021311_AdicaoFilmes.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

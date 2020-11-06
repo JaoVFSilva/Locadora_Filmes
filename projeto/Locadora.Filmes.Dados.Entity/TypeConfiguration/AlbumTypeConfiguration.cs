@@ -16,26 +16,21 @@ namespace Locadora.Filmes.Dados.Entity.TypeConfiguration
                 .IsRequired()
                 .HasDatabaseGeneratedOption(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.Identity)
                 .HasColumnName("Id");
-
             Property(p => p.Nome)
                 .IsRequired()
                 .HasMaxLength(100)
                 .HasColumnName("Nome");
-
             Property(p => p.Ano)
                 .IsRequired()
                 .HasColumnName("Ano");
-
             Property(p => p.Descricao)
                 .IsOptional()
                 .HasMaxLength(1000)
                 .HasColumnName("Descricao");
-
             Property(p => p.Autor)
                 .IsRequired()
                 .HasMaxLength(100)
                 .HasColumnName("Autor");
-
             Property(p => p.Email)
                 .IsRequired()
                 .HasColumnName("Email");

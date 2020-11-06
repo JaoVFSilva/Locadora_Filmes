@@ -9,8 +9,7 @@ namespace Locadora.Filmes.Web.App_Start
 {
     public static class AutoMapperConfig
     {
-        public static void Configurar()
-        {
+        public static void Configurar() {
             Mapper.AddProfile<DominioParaViewModelProfile>();
             Mapper.AddProfile<ViewModelParaDominioProfile>();
         }

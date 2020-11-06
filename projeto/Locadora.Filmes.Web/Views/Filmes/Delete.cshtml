@@ -1,5 +1,4 @@
-﻿@model Locadora.Filmes.Web.ViewModels.Filme.FilmeViewModel
-
+﻿@model Locadora.Filmes.Web.ViewModels.Filme.FilmeIndexViewModel
 
 @{
     ViewBag.Title = "Delete";
@@ -13,25 +12,24 @@
     <hr />
     <dl class="dl-horizontal">
         <dt>
-            @Html.DisplayNameFor(model => model.Nome)
+            @Html.DisplayNameFor(model => model.Album.Nome)
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.Nome)
+            @Html.DisplayFor(model => model.Album.Nome)
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.IdAlbum)
+            @Html.DisplayNameFor(model => model.NomeFilme)
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.IdAlbum)
+            @Html.DisplayFor(model => model.NomeFilme)
         </dd>
 
     </dl>
 
-    @using (Html.BeginForm())
-    {
+    @using (Html.BeginForm()) {
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">

@@ -8,20 +8,16 @@ namespace Locadora.Filmes.Web.ViewModels.Filme
 {
     public class FilmeViewModel
     {
+        [Required(ErrorMessage = "ID obrigatório")]
+        public long IdFilme { get; set; }
 
-        [Required(ErrorMessage = "O Id é obrigatório")]
-        public int Id { get; set; }
+        [Required(ErrorMessage = "Nome obrigatório")]
+        [Display(Name = "Nome do filme")]
+        public string NomeFilme { get; set; }
 
-        [Required(ErrorMessage = "O nome do Filme é obrigatório")]
-        [MaxLength(100, ErrorMessage = "O nome deve ter no maximo 100 caracteres")]
-        [Display(Name = "Nome do Filme")]
-        public string Nome { get; set; }
-
-  
-
-    
-
-
+        [Required(ErrorMessage = "Selecione um álbum")]
+        [Display(Name = "Nome do Álbum")]
+        public int IdAlbum { get; set; }
 
     }
 }

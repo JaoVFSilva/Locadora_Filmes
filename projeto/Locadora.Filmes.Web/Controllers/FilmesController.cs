@@ -9,18 +9,28 @@ using System.Web.Mvc;
 using AutoMapper;
 using Locadora.Filmes.Dados.Entity.Context;
 using Locadora.Filmes.Dominio;
+using Locadora.Filmes.Repositorios.Comum;
+using Locadora.Filmes.Repositorios.Entity;
+using Locadora.Filmes.Web.ViewModels.Album;
 using Locadora.Filmes.Web.ViewModels.Filme;
 
 namespace Locadora.Filmes.Web.Controllers
 {
     public class FilmesController : Controller
     {
-        private FilmeDbContext db = new FilmeDbContext();
+        private IRepositorioGenerico<Filme, long>
+            repositorioFilmes = new FilmesRepositorio(new FilmeDbContext());
+
+
+        private IRepositorioGenerico<Album, int>
+            repositorioAlbum = new AlbunsRepositorio(new FilmeDbContext());
 
         // GET: Filmes
         public ActionResult Index()
         {
-            return View(Mapper.Map<List<Filme>, List<FilmeIndexViewModel>>(db.Filmes.ToList()));
+            //var filmes = db.Filmes.Include(f => f.Album);
+            return View(Mapper.Map<List<Filme>
+                ,List<FilmeIndexViewModel>>(repositorioFilmes.Selecionar()));
         }
 
         // GET: Filmes/Details/5
@@ -30,17 +40,25 @@ namespace Locadora.Filmes.Web.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Filme filme = db.Filmes.Find(id);
+            Filme filme = repositorioFilmes.SelecionarPorId(id.Value);
             if (filme == null)
             {
                 return HttpNotFound();
             }
-            return View(filme);
+            return View(Mapper.Map<Filme, FilmeIndexViewModel>(filme));
         }
 
         // GET: Filmes/Create
         public ActionResult Create()
         {
+
+            //ViewBag.IdAlbum = new SelectList(db.Albuns, "Id", "Nome");
+            List<AlbumIndexViewModel> albuns = Mapper.Map<List<Album>,
+                List<AlbumIndexViewModel>>(repositorioAlbum.Selecionar());
+
+            SelectList dropDownAlbuns = new SelectList(albuns, "Id", "Nome");
+
+            ViewBag.DropDownAlbuns = dropDownAlbuns;
             return View();
         }
 
@@ -49,17 +67,17 @@ namespace Locadora.Filmes.Web.Controllers
         // Para obter mais detalhes, confira https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,Nome,IdAlbum")] Filme filme)
+        public ActionResult Create([Bind(Include = "IdFilme,NomeFilme,IdAlbum")] FilmeViewModel viewmodel)
         {
             if (ModelState.IsValid)
             {
-                Filme filme = Mapper.Map<FilmeViewModel, Filme>(ViewModel);
-                db.Filmes.Add(filme);
-                db.SaveChanges();
+                Filme filme = Mapper.Map<FilmeViewModel, Filme>(viewmodel);
+                repositorioFilmes.Inserir(filme);
                 return RedirectToAction("Index");
             }
 
-            return View(filme);
+           //ViewBag.IdAlbum = new SelectList(db.Albuns, "Id", "Nome", filme.IdAlbum);
+            return View(viewmodel);
         }
 
         // GET: Filmes/Edit/5
@@ -69,12 +87,19 @@ namespace Locadora.Filmes.Web.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Filme filme = db.Filmes.Find(id);
+            Filme filme = repositorioFilmes.SelecionarPorId(id.Value);
             if (filme == null)
             {
                 return HttpNotFound();
             }
-            return View(filme);
+            //ViewBag.IdAlbum = new SelectList(db.Albuns, "Id", "Nome", filme.IdAlbum);
+            List<AlbumIndexViewModel> albuns = Mapper.Map<List<Album>,
+                List<AlbumIndexViewModel>>(repositorioAlbum.Selecionar());
+
+            SelectList dropDownAlbuns = new SelectList(albuns, "Id", "Nome");
+
+            ViewBag.DropDownAlbuns = dropDownAlbuns;
+            return View(Mapper.Map<Filme, FilmeViewModel>(filme));
         }
 
         // POST: Filmes/Edit/5
@@ -82,15 +107,16 @@ namespace Locadora.Filmes.Web.Controllers
         // Para obter mais detalhes, confira https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,Nome,IdAlbum")] Filme filme)
+        public ActionResult Edit([Bind(Include = "IdFilme,NomeFilme,IdAlbum")] FilmeViewModel viewmodel)
         {
             if (ModelState.IsValid)
             {
-                db.Entry(filme).State = EntityState.Modified;
-                db.SaveChanges();
+                Filme filme = Mapper.Map<FilmeViewModel, Filme>(viewmodel);
+                repositorioFilmes.Alterar(filme);
                 return RedirectToAction("Index");
             }
-            return View(filme);
+            //ViewBag.IdAlbum = new SelectList(db.Albuns, "Id", "Nome", filme.IdAlbum);
+            return View(viewmodel);
         }
 
         // GET: Filmes/Delete/5
@@ -100,12 +126,12 @@ namespace Locadora.Filmes.Web.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Filme filme = db.Filmes.Find(id);
+            Filme filme = repositorioFilmes.SelecionarPorId(id.Value);
             if (filme == null)
             {
                 return HttpNotFound();
             }
-            return View(filme);
+            return View(Mapper.Map<Filme, FilmeIndexViewModel>(filme));
         }
 
         // POST: Filmes/Delete/5
@@ -113,19 +139,9 @@ namespace Locadora.Filmes.Web.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(long id)
         {
-            Filme filme = db.Filmes.Find(id);
-            db.Filmes.Remove(filme);
-            db.SaveChanges();
+            repositorioFilmes.ExcluirPorId(id);
             return RedirectToAction("Index");
         }
 
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing)
-            {
-                db.Dispose();
-            }
-            base.Dispose(disposing);
-        }
     }
 }

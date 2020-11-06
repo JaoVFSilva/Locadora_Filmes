@@ -17,13 +17,13 @@ namespace Locadora.Filmes.Web.Controllers
 {
     public class AlbunsController : Controller
     {
-        private IRepositorioGenerico<Album, int>
-             repositorioAlbuns = new AlbunsRepositorio(new FilmeDbContext());
-
+       
+       private IRepositorioGenerico<Album, int>
+            repositorioAlbuns = new AlbunsRepositorio(new FilmeDbContext());
         // GET: Albuns
         public ActionResult Index()
         {
-            return View(Mapper.Map<List<Album>, List<AlbumIndexViewModel>>(repositorioAlbuns.Selecionar()));
+            return View(Mapper.Map<List<Album>, List<AlbumIndexViewModel>> (repositorioAlbuns.Selecionar()));
         }
 
         // GET: Albuns/Details/5
@@ -48,11 +48,11 @@ namespace Locadora.Filmes.Web.Controllers
         }
 
         // POST: Albuns/Create
-        // Para proteger-se contra ataques de excesso de postagem, ative as propriedades específicas às quais deseja se associar. 
-        // Para obter mais detalhes, confira https://go.microsoft.com/fwlink/?LinkId=317598.
+        // Para se proteger de mais ataques, habilite as propriedades específicas às quais você quer se associar. Para 
+        // obter mais detalhes, veja https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,Nome,Ano,Descricao,Autor,Email")] AlbumViewModel viewModel )
+        public ActionResult Create([Bind(Include = "Id,Nome,Ano,Descricao,Autor,Email")] AlbumViewModel viewModel)
         {
             if (ModelState.IsValid)
             {
@@ -76,12 +76,12 @@ namespace Locadora.Filmes.Web.Controllers
             {
                 return HttpNotFound();
             }
-            return View(Mapper.Map<Album, AlbumViewModel>(album));
+            return View(Mapper.Map<Album, AlbumViewModel>(album)) ;
         }
 
         // POST: Albuns/Edit/5
-        // Para proteger-se contra ataques de excesso de postagem, ative as propriedades específicas às quais deseja se associar. 
-        // Para obter mais detalhes, confira https://go.microsoft.com/fwlink/?LinkId=317598.
+        // Para se proteger de mais ataques, habilite as propriedades específicas às quais você quer se associar. Para 
+        // obter mais detalhes, veja https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "Id,Nome,Ano,Descricao,Autor,Email")] AlbumViewModel viewModel)
@@ -103,7 +103,6 @@ namespace Locadora.Filmes.Web.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Album album = repositorioAlbuns.SelecionarPorId(id.Value);
-                
             if (album == null)
             {
                 return HttpNotFound();
@@ -116,9 +115,10 @@ namespace Locadora.Filmes.Web.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
+            Album album = repositorioAlbuns.SelecionarPorId(id);
             repositorioAlbuns.ExcluirPorId(id);
             return RedirectToAction("Index");
         }
-       
+        
     }
 }

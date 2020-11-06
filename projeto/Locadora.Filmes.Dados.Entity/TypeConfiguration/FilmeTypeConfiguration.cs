@@ -12,32 +12,32 @@ namespace Locadora.Filmes.Dados.Entity.TypeConfiguration
     {
         protected override void ConfigurarCamposTabela()
         {
-            Property(p => p.Id)
-                .IsRequired()
-                .HasDatabaseGeneratedOption(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.Identity)
-                .HasColumnName("Id");
-
-            Property(p => p.Nome)
+            Property(p => p.IdFilme)
+               .IsRequired()
+             .HasDatabaseGeneratedOption(System.ComponentModel.DataAnnotations.Schema.DatabaseGeneratedOption.Identity)
+             .HasColumnName("IdFilme");
+            Property(p => p.NomeFilme)
                 .IsRequired()
                 .HasMaxLength(100)
                 .HasColumnName("Nome");
-
             Property(p => p.IdAlbum)
                 .IsRequired()
-                .HasColumnName("Id Album");
-
-    
+                .HasColumnName("IdAlbum");
 
         }
 
         protected override void ConfigurarChaveEstrangeira()
         {
-
+            HasRequired(p => p.Album)
+                .WithMany(p =>p.Filmes)
+                .HasForeignKey(fk => fk.IdAlbum);
+            
+            
         }
 
         protected override void ConfigurarChavePrimaria()
         {
-            HasKey(pk => pk.Id);
+            HasKey(pk => pk.IdFilme);
         }
 
         protected override void ConfigurarNomeTabela()
@@ -46,4 +46,3 @@ namespace Locadora.Filmes.Dados.Entity.TypeConfiguration
         }
     }
 }
-

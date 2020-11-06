@@ -10,18 +10,16 @@ namespace Locadora.Filmes.Web.ViewModels.Album
     {
 
         public int Id { get; set; }
-        [Display(Name = "Nome do Album")]
+        [Display(Name = "Nome do álbum")]
         public string Nome { get; set; }
-        [Display(Name = "Ano do Album")]
+        [Display(Name = "Ano do álbum")]
         public int Ano { get; set; }
-        [Display(Name = "Descrição do Album")]
+        [Display(Name = "Descrição do álbum")]
         public string Descricao { get; set; }
-
-        [Display(Name = "Autor do Album")]
+        [Display(Name = "Nome do Autor")]
         public string Autor { get; set; }
 
-        [Display(Name = "Email")]
+        [Display(Name = "E-mail para contato")]
         public string Email { get; set; }
-
     }
 }

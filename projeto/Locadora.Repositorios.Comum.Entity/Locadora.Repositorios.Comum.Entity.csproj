@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A9035B5-D031-4C58-971D-301F6517A6A4}</ProjectGuid>
+    <ProjectGuid>{C3B93D50-327C-4D40-A951-405EA5AFEACB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Locadora.Repositorios.Comum.Entity</RootNamespace>
@@ -56,7 +56,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Locadora.Filmes.Repositorios.Comum\Locadora.Filmes.Repositorios.Comum.csproj">
-      <Project>{7cb257f5-f5a3-4980-9829-cf4c12d4f651}</Project>
+      <Project>{15bb2733-d58e-4a84-be31-2fa0c1c6e234}</Project>
       <Name>Locadora.Filmes.Repositorios.Comum</Name>
     </ProjectReference>
   </ItemGroup>

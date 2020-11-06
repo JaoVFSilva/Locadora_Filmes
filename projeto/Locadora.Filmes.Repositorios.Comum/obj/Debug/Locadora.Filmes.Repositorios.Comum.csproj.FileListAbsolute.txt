@@ -1,12 +1,6 @@
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csprojAssemblyReference.cache
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csproj.CoreCompileInputs.cache
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csprojAssemblyReference.cache
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csproj.CoreCompileInputs.cache
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csprojAssemblyReference.cache
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csproj.CoreCompileInputs.cache
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb

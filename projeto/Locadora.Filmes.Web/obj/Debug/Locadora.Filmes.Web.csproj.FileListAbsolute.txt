@@ -1,170 +1,85 @@
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Web.dll.config
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Web.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Web.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csc.exe
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csc.exe.config
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csc.rsp
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csi.exe
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csi.rsp
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.AppContext.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.Collections.Immutable.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.IO.FileSystem.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.Reflection.Metadata.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\vbc.exe
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\vbc.exe.config
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\vbc.rsp
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\VBCSCompiler.exe
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\VBCSCompiler.exe.config
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Antlr3.Runtime.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\EntityFramework.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\EntityFramework.SqlServer.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dados.Entity.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dominio.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Generica.Entity.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Microsoft.Web.Infrastructure.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Newtonsoft.Json.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Helpers.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Mvc.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Optimization.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Razor.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.Deployment.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.Razor.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\WebGrease.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dados.Entity.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dados.Entity.dll.config
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dominio.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Generica.Entity.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Generica.Entity.dll.config
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\EntityFramework.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\EntityFramework.SqlServer.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Helpers.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Mvc.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Optimization.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Razor.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.Deployment.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.Razor.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Newtonsoft.Json.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Antlr3.Runtime.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.Helpers.resources.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.Mvc.resources.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.Optimization.resources.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.Razor.resources.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.WebPages.resources.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csprojAssemblyReference.cache
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csproj.CoreCompileInputs.cache
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csproj.CopyComplete
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\AutoMapper.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\AutoMapper.xml
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Comum.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.dll
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Comum.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.dll.config
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.pdb
-D:\Projetos DSI\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.dll.config
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csprojAssemblyReference.cache
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csproj.CoreCompileInputs.cache
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Web.dll.config
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Web.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Web.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\csc.exe
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\csc.exe.config
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\csc.rsp
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\csi.exe
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\csi.rsp
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\System.AppContext.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\vbc.exe
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\vbc.exe.config
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\vbc.rsp
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\VBCSCompiler.exe
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Antlr3.Runtime.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\AutoMapper.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\EntityFramework.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\EntityFramework.SqlServer.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Dados.Entity.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Dominio.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Generica.Entity.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Comum.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Newtonsoft.Json.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.Helpers.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.Mvc.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.Optimization.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.Razor.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.WebPages.Deployment.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.WebPages.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.WebPages.Razor.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\WebGrease.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Dados.Entity.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Dados.Entity.dll.config
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Dominio.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Generica.Entity.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Generica.Entity.dll.config
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Comum.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.dll.config
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.dll.config
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\AutoMapper.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\EntityFramework.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\EntityFramework.SqlServer.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.Helpers.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.Mvc.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.Optimization.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.Razor.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.WebPages.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.WebPages.Deployment.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\System.Web.WebPages.Razor.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Newtonsoft.Json.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Antlr3.Runtime.pdb
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\pt-br\System.Web.Helpers.resources.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\pt-br\System.Web.Optimization.resources.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\pt-br\System.Web.Razor.resources.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\pt-br\System.Web.WebPages.resources.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-C:\Users\João Vitor\Desktop\Projetos\Locadora.Filmes\Locadora_Filmes\projeto\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csproj.CopyComplete
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Web.dll.config
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Web.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Web.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csc.exe
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csc.exe.config
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csc.rsp
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csi.exe
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\csi.rsp
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.AppContext.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\vbc.exe
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\vbc.exe.config
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\vbc.rsp
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Antlr3.Runtime.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\AutoMapper.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\EntityFramework.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dados.Entity.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dominio.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Generica.Entity.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Newtonsoft.Json.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Helpers.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Mvc.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Optimization.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Razor.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\WebGrease.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dados.Entity.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dados.Entity.dll.config
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Dominio.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Generica.Entity.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Generica.Entity.dll.config
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Filmes.Repositorios.Entity.dll.config
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Locadora.Repositorios.Comum.Entity.dll.config
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\AutoMapper.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\EntityFramework.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Helpers.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Mvc.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Optimization.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.Razor.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Newtonsoft.Json.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Antlr3.Runtime.pdb
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csprojAssemblyReference.cache
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csproj.CoreCompileInputs.cache
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.csproj.CopyComplete
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.dll
+C:\Users\tonin\source\repos\Locadora.Filmes\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.pdb

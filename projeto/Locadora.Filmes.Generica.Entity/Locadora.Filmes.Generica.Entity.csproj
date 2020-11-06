@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7C0B8B59-5D31-4872-980D-324CC4D9FA42}</ProjectGuid>
+    <ProjectGuid>{DB9A37DB-CB3A-4B89-9CC5-CD07C230E724}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Locadora.Filmes.Generica.Entity</RootNamespace>

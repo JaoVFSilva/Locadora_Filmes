@@ -6,7 +6,7 @@ using System.Web;
 
 namespace Locadora.Filmes.Web.Annotations
 {
-    public class EmailAttribute : ValidationAttribute
+    public class EmailAttribute :  ValidationAttribute
     {
         public override bool IsValid(object value)
         {

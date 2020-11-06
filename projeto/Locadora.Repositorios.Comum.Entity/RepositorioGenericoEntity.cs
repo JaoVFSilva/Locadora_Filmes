@@ -11,9 +11,9 @@ namespace Locadora.Repositorios.Comum.Entity
     public class RepositorioGenericoEntity<TEntidade, TChave> : IRepositorioGenerico<TEntidade, TChave>
         where TEntidade : class
     {
-        private DbContext _contexto;
-        public RepositorioGenericoEntity(DbContext contexto)
-        {
+        protected DbContext _contexto;
+
+        public RepositorioGenericoEntity(DbContext contexto) {
             _contexto = contexto;
         }
         public void Alterar(TEntidade entidade)
@@ -23,17 +23,17 @@ namespace Locadora.Repositorios.Comum.Entity
             _contexto.SaveChanges();
         }
 
-        public void ExcluirPorId(TChave id)
-        {
-            TEntidade entidade = SelecionarPorId(id);
-            Excluir(entidade);
-        }
-
         public void Excluir(TEntidade entidade)
         {
             _contexto.Set<TEntidade>().Attach(entidade);
             _contexto.Entry(entidade).State = EntityState.Deleted;
-            _contexto.SaveChanges(); 
+            _contexto.SaveChanges();
+        }
+
+        public void ExcluirPorId(TChave id)
+        {
+            TEntidade entidade = SelecionarPorId(id);
+            Excluir(entidade);
         }
 
         public void Inserir(TEntidade entidade)
@@ -42,16 +42,15 @@ namespace Locadora.Repositorios.Comum.Entity
             _contexto.SaveChanges();
         }
 
-        public List<TEntidade> Selecionar()
+        public virtual List<TEntidade> Selecionar()
         {
             return _contexto.Set<TEntidade>().ToList();
         }
 
-        public TEntidade SelecionarPorId(TChave id)
+        public  virtual TEntidade SelecionarPorId(TChave id)
         {
-           return _contexto.Set<TEntidade>().Find(id);
+            return _contexto.Set<TEntidade>().Find(id);
         }
+
     }
-
-
 }

@@ -1,3 +1,4 @@
+using AutoMapper;
 using Locadora.Filmes.Web.App_Start;
 using System;
 using System.Collections.Generic;

@@ -9,7 +9,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C38590AD-A575-4255-B56A-F1A1D07B0EA6}</ProjectGuid>
+    <ProjectGuid>{466053E0-B188-46E7-9AF9-0B54032FE3F8}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -19,7 +19,7 @@
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>44391</IISExpressSSLPort>
+    <IISExpressSSLPort>44367</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -212,27 +212,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Locadora.Filmes.Dados.Entity\Locadora.Filmes.Dados.Entity.csproj">
-      <Project>{ad379491-7776-4d51-988b-0a732e4b2931}</Project>
+      <Project>{456a6cd2-c716-4ba9-a102-a449805dd202}</Project>
       <Name>Locadora.Filmes.Dados.Entity</Name>
     </ProjectReference>
     <ProjectReference Include="..\Locadora.Filmes.Dominio\Locadora.Filmes.Dominio.csproj">
-      <Project>{0f7b1520-d4c0-43ec-86d1-30771a569afc}</Project>
+      <Project>{0b48e535-c3ef-4eac-8515-e3eec45b5e3d}</Project>
       <Name>Locadora.Filmes.Dominio</Name>
     </ProjectReference>
     <ProjectReference Include="..\Locadora.Filmes.Generica.Entity\Locadora.Filmes.Generica.Entity.csproj">
-      <Project>{7c0b8b59-5d31-4872-980d-324cc4d9fa42}</Project>
+      <Project>{db9a37db-cb3a-4b89-9cc5-cd07c230e724}</Project>
       <Name>Locadora.Filmes.Generica.Entity</Name>
     </ProjectReference>
     <ProjectReference Include="..\Locadora.Filmes.Repositorios.Comum\Locadora.Filmes.Repositorios.Comum.csproj">
-      <Project>{7cb257f5-f5a3-4980-9829-cf4c12d4f651}</Project>
+      <Project>{15bb2733-d58e-4a84-be31-2fa0c1c6e234}</Project>
       <Name>Locadora.Filmes.Repositorios.Comum</Name>
     </ProjectReference>
     <ProjectReference Include="..\Locadora.Filmes.Repositorios.Entity\Locadora.Filmes.Repositorios.Entity.csproj">
-      <Project>{16344e5c-8b02-470e-b510-9c0c3f0cd9f6}</Project>
+      <Project>{ed57b2b4-1d86-4fe5-961a-3a0184e89923}</Project>
       <Name>Locadora.Filmes.Repositorios.Entity</Name>
     </ProjectReference>
     <ProjectReference Include="..\Locadora.Repositorios.Comum.Entity\Locadora.Repositorios.Comum.Entity.csproj">
-      <Project>{6a9035b5-d031-4c58-971d-301f6517a6a4}</Project>
+      <Project>{c3b93d50-327c-4d40-a951-405ea5afeacb}</Project>
       <Name>Locadora.Repositorios.Comum.Entity</Name>
     </ProjectReference>
   </ItemGroup>
@@ -252,9 +252,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>58980</DevelopmentServerPort>
+          <DevelopmentServerPort>52911</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44391/</IISUrl>
+          <IISUrl>https://localhost:44367/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
